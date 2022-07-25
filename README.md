@@ -4,7 +4,7 @@ This application focuses on the use of Javascript to generate a random, secure p
 
 ## Getting Started
 
-This project has been deployed to GitHub Pages. To get this project up and running, you can follow the deployment link. Or, download the sources files to use this as a template.
+This project has been deployed to GitHub Pages. To get this project up and running, you can follow the deployment link. 
 
 ### This project has the following features: 
 * A generate button
