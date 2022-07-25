@@ -27,7 +27,7 @@ This project has been deployed to GitHub Pages. To get this project up and runni
 * A variable declaration area 
 * An event listener (onclick) called generatePassword
     * This will prompt the user for input between 8-128
-    * This variable is changed to an interger using ParseInt()
+    * This variable is changed to an interger using <code>ParseInt()</code>
     * This will confirm that the input is a number and within the range
     * This then uses the input to determine the types of letters or characters used, using an if statement
     * This then assigns values to the variables using arrays for special characters, numbers or the alphabet
