@@ -6,9 +6,6 @@ This application focuses on the use of Javascript to generate a random, secure p
 
 This project has been deployed to GitHub Pages. To get this project up and running, you can follow the deployment link. Or, download the sources files to use this as a template.
 
-
-![Password-Generator Demo]
-
 ### This project has the following features: 
 * A generate button
     * This will send the user a series of prompts to validate choices for password criteria
