@@ -73,7 +73,7 @@ This project has been deployed to GitHub Pages. To get this project up and runni
 
 ## Acknowledgments
 
-* Special thank you to Jamie Rachael Morris for significant contributions to my understanding of this code - https://github.com/jamierachael
+* Thank you to Jamie Rachael Morris for significant contributions to my understanding of the code for this application - https://github.com/jamierachael
 
 
 
@@ -81,4 +81,5 @@ This project has been deployed to GitHub Pages. To get this project up and runni
 
 
 
+# Password_Generator
 # Password_Generator

@@ -1,4 +1,4 @@
-// User input variables: 
+// User input variable section: 
 var enter;
 var confirmNumber;
 var confirmCharacter;
